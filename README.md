@@ -1,5 +1,3 @@
-# examples-in-every-chapter
-
 <!DOCTYPE html>
 <html>
 <head>
